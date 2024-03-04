@@ -34,7 +34,7 @@ static int	count_nbr(long int nb)
 
 char	*ft_itoa(int n)
 {
-	int			i;
+	int		i;
 	long int	nb;
 	char		*str;
 
